@@ -9,7 +9,7 @@
 
 1. Склонировать репозиторий
 ```
-git clone https://github.com/arseniypom/intreview-bot.git
+git clone https://github.com:ssilvered/my-interview-bot.git
 ```
 ИЛИ
 скачать zip-архив и распаковать его
