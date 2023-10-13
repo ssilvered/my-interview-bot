@@ -18,7 +18,7 @@ git clone https://github.com/arseniypom/intreview-bot.git
 ```
 npm i
 ```
-3. Создать в корне проекта файл `.env` и вставить туда ключ от своего бота (полученный от BotFather по инструкции из [видео](https://youtu.be/BQr9u6Bb_mE?si=r1ecn6P3U4r7tzrw&t=170))
+3. Создать в корне проекта файл `.env` и вставить туда ключ от бота.
 ```
-BOT_API_KEY=9876543210:AbCdEfGhIjKlMnOp-QrStUvWxYz1234567890
+BOT_API_KEY=6549355591:AAH1GXHwtMHOygG2GUgWGyq_18R_S7ZJ7ic
 ```
